@@ -237,5 +237,9 @@ body {
     height: 100px;
     width: auto;
   }
+  .tech-container {
+    margin-top: 30px;
+    width: 75vw;
+  }
 }
 /*# sourceMappingURL=style.css.map */
