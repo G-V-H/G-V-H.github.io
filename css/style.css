@@ -92,6 +92,12 @@ body {
   padding-top: 3rem;
 }
 
+.social-container {
+  display: inline-block;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
 .email, .ghub, .linkedin {
   display: inline-block;
   border: none;
@@ -118,5 +124,4 @@ body {
     visibility: hidden;
   }
 }
-
 /*# sourceMappingURL=style.css.map */
